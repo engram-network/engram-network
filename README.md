@@ -1,6 +1,6 @@
 - 👋 Hi, I’m enrique
-- 🌱 I'm working on @engram-network Blockchain For Real World Assets
-- 👀 I’m interested in Cryptography
+- 🌱 I'm working on [@engram-network](https://github.com/engram-network) Blockchain For Real World Assets
+- 👀 I’m interested in Cryptography, AML/KYC
 - 🌱 I’m currently learning Cosmos IBC, Ethereum, And Another Layer One Blockchain
 - 💞️ I’m looking to collaborate on anything project.
 - 📫 How to reach me? Email: dev@engramnet.io
